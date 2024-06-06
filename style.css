@@ -1,0 +1,24 @@
+#main-title {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-position: inside;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  #point1 {
+    text-align: center;
+  }
+  
+  .content {
+    background-color: #30d5c8;
+  }
+  
+  p {
+    font-style: italic;
+  }
+  
